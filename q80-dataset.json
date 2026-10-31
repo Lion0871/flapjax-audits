@@ -1,0 +1,469 @@
+{
+ "network": "BSC chainId 56",
+ "token": "0x90c8889f428f9ebb77bb8f15cad3a50a9ac680df",
+ "treasury": {
+  "nonce": 563,
+  "balHead": "195261614670809788",
+  "isContract": false,
+  "firstFundedBlock": 123473817,
+  "firstFunder": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+  "funderTx": {
+   "hash": "0xe0f7aeeedd38558ba63a596b8eb6b73e53af63d6282fc3e370160f3b2109bfd0",
+   "from": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+   "value": "0x1c0fe960e02fc00"
+  }
+ },
+ "ranAt": "2026-10-30T23:29:49.856Z",
+ "head": 130751770,
+ "window": {
+  "firstBlockOfDay": 130413458,
+  "firstBlockTs": 1793250000,
+  "prevBlockTs": 1793249999,
+  "lastBlockOfDay": 130605332,
+  "lastBlockTs": 1793336399,
+  "nextBlockTs": 1793336400
+ },
+ "transfers": [
+  {
+   "tx": "0x44a580d841831667955ea9e7bfcb75521ccc51c5b2ffc7299ef70bbb50fa78d5",
+   "logIndex": 263,
+   "block": 130482214,
+   "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "rawAmount": "300000000000000000000000",
+   "timestamp": 1793280983,
+   "cot": "2026-10-29 08:36:23"
+  },
+  {
+   "tx": "0x6895a4d32f4367704230435d86202b048a06c2f9d3c452fc21419ca1e5a2dac5",
+   "logIndex": 502,
+   "block": 130482223,
+   "to": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+   "rawAmount": "25000000000000000000000",
+   "timestamp": 1793280987,
+   "cot": "2026-10-29 08:36:27"
+  },
+  {
+   "tx": "0xce38980fb1f4add7ab7dc6cf739001ded5bfac0d80756e915a4ba48d0d40b292",
+   "logIndex": 868,
+   "block": 130482233,
+   "to": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+   "rawAmount": "25000000000000000000000",
+   "timestamp": 1793280991,
+   "cot": "2026-10-29 08:36:31"
+  },
+  {
+   "tx": "0x30a82d0d9c77d6dac96e6595cd4557845cd8695fb099d93fb54b5982e221ca02",
+   "logIndex": 840,
+   "block": 130482242,
+   "to": "0xd16446a568f46bca1504422062f23767d8fa58d9",
+   "rawAmount": "25000000000000000000000",
+   "timestamp": 1793280995,
+   "cot": "2026-10-29 08:36:35"
+  },
+  {
+   "tx": "0x58e92d0c8afedb71ca5b98e0810dc1856f1406e81b7fbe0f8bbab6c6ed8174b6",
+   "logIndex": 952,
+   "block": 130482252,
+   "to": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+   "rawAmount": "25000000000000000000000",
+   "timestamp": 1793281000,
+   "cot": "2026-10-29 08:36:40"
+  },
+  {
+   "tx": "0x81083d6b118a34358abdf3d1289ed469ca3af4871677043837d5d055c0e90e03",
+   "logIndex": 759,
+   "block": 130482263,
+   "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+   "rawAmount": "25000000000000000000000",
+   "timestamp": 1793281005,
+   "cot": "2026-10-29 08:36:45"
+  },
+  {
+   "tx": "0x9e9358acf04da74162ba29333e988fe6f323256d9287c37d2ea06e8bbcfa2dd3",
+   "logIndex": 470,
+   "block": 130482272,
+   "to": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+   "rawAmount": "300000000000000000000000",
+   "timestamp": 1793281009,
+   "cot": "2026-10-29 08:36:49"
+  },
+  {
+   "tx": "0x18324f74d9afbe0a7517cfc7c1c342f386817c71202bad7fa294ef05f83743e1",
+   "logIndex": 769,
+   "block": 130482291,
+   "to": "0x32cf8fffd9ada47abd09a7b2269dd4835ee994f7",
+   "rawAmount": "250000000000000000000000",
+   "timestamp": 1793281017,
+   "cot": "2026-10-29 08:36:57"
+  },
+  {
+   "tx": "0x875c2ef38cdd206ebd49735f5cfd5755bcd5fc85cb60c78e073153953cd60550",
+   "logIndex": 195,
+   "block": 130488437,
+   "to": "0xa32fd912a81683804ec6bbd7ba4b6cad8e0ca3ac",
+   "rawAmount": "250000000000000000000000",
+   "timestamp": 1793283783,
+   "cot": "2026-10-29 09:23:03"
+  },
+  {
+   "tx": "0xc1eac754961dc07ecc103c831197f039b23588924ff0d56efccdb1ece523b11e",
+   "logIndex": 479,
+   "block": 130489446,
+   "to": "0xcf06c2f35e7671cbb1fcae42b50a447db189f1da",
+   "rawAmount": "100000000000000000000000",
+   "timestamp": 1793284237,
+   "cot": "2026-10-29 09:30:37"
+  },
+  {
+   "tx": "0x15e20669d88b516a43a8fafffbf2f6579ea43f15af1139e48550bef16569be46",
+   "logIndex": 323,
+   "block": 130496859,
+   "to": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+   "rawAmount": "25000000000000000000000",
+   "timestamp": 1793287575,
+   "cot": "2026-10-29 10:26:15"
+  },
+  {
+   "tx": "0x3ee7dff7623561a6ee06f3a599ef6025a44c28fd85855398e6acfc25565968b2",
+   "logIndex": 345,
+   "block": 130496868,
+   "to": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+   "rawAmount": "300000000000000000000000",
+   "timestamp": 1793287580,
+   "cot": "2026-10-29 10:26:20"
+  },
+  {
+   "tx": "0xf066f28c0de3964e4dc06e2481a468c53fd221f962905b922078d9efae154cbd",
+   "logIndex": 543,
+   "block": 130496877,
+   "to": "0xd16446a568f46bca1504422062f23767d8fa58d9",
+   "rawAmount": "300000000000000000000000",
+   "timestamp": 1793287584,
+   "cot": "2026-10-29 10:26:24"
+  },
+  {
+   "tx": "0x664cfae4cd1553557c05a31c5e3fbc662afb2472f3d93df461f9b4f6f0bc7bc4",
+   "logIndex": 206,
+   "block": 130513085,
+   "to": "0xab39aa1e2db4036e01cf7e919b3f239b3ff90160",
+   "rawAmount": "3000000000000000000000000",
+   "timestamp": 1793294879,
+   "cot": "2026-10-29 12:27:59"
+  },
+  {
+   "tx": "0x814720410be30518ea1947c13b283b4dbe408a35c82f05f89fe00b07a4d14d1a",
+   "logIndex": 193,
+   "block": 130513134,
+   "to": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+   "rawAmount": "120000000000000000000000",
+   "timestamp": 1793294901,
+   "cot": "2026-10-29 12:28:21"
+  },
+  {
+   "tx": "0xfb6c7f0f5edf392be0b71da8561c01b2ef111b82e40d628b2d2b7173417efb85",
+   "logIndex": 188,
+   "block": 130530103,
+   "to": "0x0a66a9def221efc698b6bbeca82cae6729a8aba8",
+   "rawAmount": "600000000000000000000000",
+   "timestamp": 1793302538,
+   "cot": "2026-10-29 14:35:38"
+  },
+  {
+   "tx": "0x1ff5c6086cc2f3960c0e1460f0482e5af5f9c059d091bfcd1f2ac888c88401b1",
+   "logIndex": 380,
+   "block": 130553103,
+   "to": "0x0a66a9def221efc698b6bbeca82cae6729a8aba8",
+   "rawAmount": "25000000000000000000000",
+   "timestamp": 1793312890,
+   "cot": "2026-10-29 17:28:10"
+  },
+  {
+   "tx": "0x4c9170b0bab813ff1d43e8d200a3df72eb661a6446959a8485746ba2688d62bf",
+   "logIndex": 244,
+   "block": 130600976,
+   "to": "0xe8797a6bb4693674d78e933e85cb159a0219d03b",
+   "rawAmount": "25000000000000000000000",
+   "timestamp": 1793334439,
+   "cot": "2026-10-29 23:27:19"
+  }
+ ],
+ "accounts": {
+  "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  },
+  "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  },
+  "0xfb200657f7266157a45dfcc6c09690726daa24e6": {
+   "nonce": 0,
+   "balHead": "500000000000000",
+   "isContract": false,
+   "firstFundedBlock": 126835408,
+   "firstFunder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+   "funderTx": {
+    "hash": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+    "from": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+    "value": "0x1c6bf52634000"
+   }
+  },
+  "0xd16446a568f46bca1504422062f23767d8fa58d9": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  },
+  "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02": {
+   "nonce": 0,
+   "balHead": "6257934517396",
+   "isContract": false,
+   "neverFunded": true
+  },
+  "0x32cf8fffd9ada47abd09a7b2269dd4835ee994f7": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  },
+  "0xa32fd912a81683804ec6bbd7ba4b6cad8e0ca3ac": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  },
+  "0xcf06c2f35e7671cbb1fcae42b50a447db189f1da": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  },
+  "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  },
+  "0xab39aa1e2db4036e01cf7e919b3f239b3ff90160": {
+   "nonce": 5,
+   "balHead": "55928570404478",
+   "isContract": false,
+   "firstFundedBlock": 128594175,
+   "noValueIn": true,
+   "miner": "0x7b501c7944185130dd4ad73293e8aa84effdcee7"
+  },
+  "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  },
+  "0x0a66a9def221efc698b6bbeca82cae6729a8aba8": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  },
+  "0xe8797a6bb4693674d78e933e85cb159a0219d03b": {
+   "nonce": 0,
+   "balHead": "0",
+   "isContract": false,
+   "neverActive": true
+  }
+ },
+ "treasury_account": {
+  "nonce": 563,
+  "balHead": "195261614670809788",
+  "isContract": false,
+  "firstFundedBlock": 123473817,
+  "firstFunder": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+  "funderTx": {
+   "hash": "0xe0f7aeeedd38558ba63a596b8eb6b73e53af63d6282fc3e370160f3b2109bfd0",
+   "from": "0x5ba434b40be6cfc7033bf8d4545320fa609a4268",
+   "value": "0x1c0fe960e02fc00"
+  }
+ },
+ "totals": {
+  "transfers": 18,
+  "recipients": 13,
+  "totalRaw": "5720000000000000000000000"
+ },
+ "cross_receipts": {
+  "provider": [
+   "https://bsc-rpc.publicnode.com",
+   "https://bsc-mainnet.public.blastapi.io"
+  ],
+  "verifiedAt": "2026-10-31T00:47:20Z",
+  "method": "eth_getTransactionReceipt exact-Transfer-log match + status 0x1 + block ts in window",
+  "verified": 18,
+  "bad": 0,
+  "rows": [
+   {
+    "tx": "0x44a580d841831667955ea9e7bfcb75521ccc51c5b2ffc7299ef70bbb50fa78d5",
+    "block": 130482214,
+    "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+    "amount": "300000000000000000000000",
+    "logIndex": 263,
+    "ts": 1793280983,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x6895a4d32f4367704230435d86202b048a06c2f9d3c452fc21419ca1e5a2dac5",
+    "block": 130482223,
+    "to": "0xabc2c3daffa4c1963299da225c25f2aa7d4ddf62",
+    "amount": "25000000000000000000000",
+    "logIndex": 502,
+    "ts": 1793280987,
+    "status": "0x1"
+   },
+   {
+    "tx": "0xce38980fb1f4add7ab7dc6cf739001ded5bfac0d80756e915a4ba48d0d40b292",
+    "block": 130482233,
+    "to": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+    "amount": "25000000000000000000000",
+    "logIndex": 868,
+    "ts": 1793280991,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x30a82d0d9c77d6dac96e6595cd4557845cd8695fb099d93fb54b5982e221ca02",
+    "block": 130482242,
+    "to": "0xd16446a568f46bca1504422062f23767d8fa58d9",
+    "amount": "25000000000000000000000",
+    "logIndex": 840,
+    "ts": 1793280995,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x58e92d0c8afedb71ca5b98e0810dc1856f1406e81b7fbe0f8bbab6c6ed8174b6",
+    "block": 130482252,
+    "to": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+    "amount": "25000000000000000000000",
+    "logIndex": 952,
+    "ts": 1793281000,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x81083d6b118a34358abdf3d1289ed469ca3af4871677043837d5d055c0e90e03",
+    "block": 130482263,
+    "to": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+    "amount": "25000000000000000000000",
+    "logIndex": 759,
+    "ts": 1793281005,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x9e9358acf04da74162ba29333e988fe6f323256d9287c37d2ea06e8bbcfa2dd3",
+    "block": 130482272,
+    "to": "0x2ae18c3b2fc18545edd35beeaef97cc2ed908a02",
+    "amount": "300000000000000000000000",
+    "logIndex": 470,
+    "ts": 1793281009,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x18324f74d9afbe0a7517cfc7c1c342f386817c71202bad7fa294ef05f83743e1",
+    "block": 130482291,
+    "to": "0x32cf8fffd9ada47abd09a7b2269dd4835ee994f7",
+    "amount": "250000000000000000000000",
+    "logIndex": 769,
+    "ts": 1793281017,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x875c2ef38cdd206ebd49735f5cfd5755bcd5fc85cb60c78e073153953cd60550",
+    "block": 130488437,
+    "to": "0xa32fd912a81683804ec6bbd7ba4b6cad8e0ca3ac",
+    "amount": "250000000000000000000000",
+    "logIndex": 195,
+    "ts": 1793283783,
+    "status": "0x1"
+   },
+   {
+    "tx": "0xc1eac754961dc07ecc103c831197f039b23588924ff0d56efccdb1ece523b11e",
+    "block": 130489446,
+    "to": "0xcf06c2f35e7671cbb1fcae42b50a447db189f1da",
+    "amount": "100000000000000000000000",
+    "logIndex": 479,
+    "ts": 1793284237,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x15e20669d88b516a43a8fafffbf2f6579ea43f15af1139e48550bef16569be46",
+    "block": 130496859,
+    "to": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+    "amount": "25000000000000000000000",
+    "logIndex": 323,
+    "ts": 1793287575,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x3ee7dff7623561a6ee06f3a599ef6025a44c28fd85855398e6acfc25565968b2",
+    "block": 130496868,
+    "to": "0xfdf05af8ddce3621f01713e01721d6e9ad702ea8",
+    "amount": "300000000000000000000000",
+    "logIndex": 345,
+    "ts": 1793287580,
+    "status": "0x1"
+   },
+   {
+    "tx": "0xf066f28c0de3964e4dc06e2481a468c53fd221f962905b922078d9efae154cbd",
+    "block": 130496877,
+    "to": "0xd16446a568f46bca1504422062f23767d8fa58d9",
+    "amount": "300000000000000000000000",
+    "logIndex": 543,
+    "ts": 1793287584,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x664cfae4cd1553557c05a31c5e3fbc662afb2472f3d93df461f9b4f6f0bc7bc4",
+    "block": 130513085,
+    "to": "0xab39aa1e2db4036e01cf7e919b3f239b3ff90160",
+    "amount": "3000000000000000000000000",
+    "logIndex": 206,
+    "ts": 1793294879,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x814720410be30518ea1947c13b283b4dbe408a35c82f05f89fe00b07a4d14d1a",
+    "block": 130513134,
+    "to": "0xdf4ff9d2f45f99f11a90b16f277d4b7edddb72a5",
+    "amount": "120000000000000000000000",
+    "logIndex": 193,
+    "ts": 1793294901,
+    "status": "0x1"
+   },
+   {
+    "tx": "0xfb6c7f0f5edf392be0b71da8561c01b2ef111b82e40d628b2d2b7173417efb85",
+    "block": 130530103,
+    "to": "0x0a66a9def221efc698b6bbeca82cae6729a8aba8",
+    "amount": "600000000000000000000000",
+    "logIndex": 188,
+    "ts": 1793302538,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x1ff5c6086cc2f3960c0e1460f0482e5af5f9c059d091bfcd1f2ac888c88401b1",
+    "block": 130553103,
+    "to": "0x0a66a9def221efc698b6bbeca82cae6729a8aba8",
+    "amount": "25000000000000000000000",
+    "logIndex": 380,
+    "ts": 1793312890,
+    "status": "0x1"
+   },
+   {
+    "tx": "0x4c9170b0bab813ff1d43e8d200a3df72eb661a6446959a8485746ba2688d62bf",
+    "block": 130600976,
+    "to": "0xe8797a6bb4693674d78e933e85cb159a0219d03b",
+    "amount": "25000000000000000000000",
+    "logIndex": 244,
+    "ts": 1793334439,
+    "status": "0x1"
+   }
+  ]
+ }
+}
